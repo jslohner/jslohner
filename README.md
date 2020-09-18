@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello There 👋
 
-<!--
-**jslohner/jslohner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+- My name is Justin, I am currently a student at Lambda School.
+- I am currently working on an application with a team of 8 developers.
+- I am passionate about problem-solving and Programming.
+- I am 20 years old and I live in Utah.
+- I love being able to continue to grow and learn more every day!
 
-Here are some ideas to get you started:
+Skills/Expertise
+- Computer Science
+- Python
+- Full Stack Web Development
+- HTML | CSS
+- JavaScript | React | Redux
+- Java | Spring Boot
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/justin-lohner/)
+- Email (Lohner4@gmail.com)
