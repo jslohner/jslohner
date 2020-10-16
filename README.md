@@ -18,4 +18,4 @@ Skills/Expertise
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/justin-lohner/)
-- Email (Lohner4@gmail.com)
+- Email - (Lohner4@gmail.com)
