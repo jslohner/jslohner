@@ -20,6 +20,7 @@ About Me
 
 Skills/Expertise
 - Computer Science
+- Integrations
 - Agile Software Development | DevOps life cycle
 - Full Stack Web Development
 - HTML | CSS
@@ -28,14 +29,17 @@ Skills/Expertise
 - Python
 - Java | Spring Boot
 - DevOps Tools
-  - MySQL | SQLite | NoSQL/DynamoDB
-  - AWS | S3 | Secrets Manager | AWS SDK
+  - MySQL | SQLite | NoSQL/DynamoDB | TablePlus
+  - AWS | S3 | Secrets Manager | AWS SDK | NoSQL Workbench
   - Git | GitHub
   - Docker
   - Sentry.io
   - Laravel Forge | Laravel Vapor
   - Scripting
   - Unit Testing | Feature Testing
+  - Task Management | ClickUp | HubSpot | ZenDesk
+  - Pusher
+  - MailTrap
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/justin-lohner)
