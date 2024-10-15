@@ -2,8 +2,8 @@
 
 About Me
 - My name is Justin Lohner, I am 23 years old, I live in Utah, and I am a Full-Stack Web Developer.
-- I have been working as a Web Developer at Ascent-Software-Group/JaroDesk, an appraisal management software company, for a little over two years.
-- [Ascent Software Group](https://www.linkedin.com/company/ascent-software-group)
+- I've most recently worked as a Web Developer at JaroDesk, an appraisal management software company, for a about 3 1/2 years.
+- [JaroDesk](https://www.linkedin.com/company/jaroplatform/)
 - I was originally hired solely as a Back-End developer, but I've been able to learn a ton about both Back-End development and Front-End development.
 - As a Back-End developer, I held the position of the technical lead over integrations for about 9 months, but due to our team size shrinking to 5 developers (including our dev team manager), I transitioned into Full-Stack because that is what our team has needed.
 - I have built many different integrations, with many different appraisal management software companies, allowing our software to communicate with those integrations.
