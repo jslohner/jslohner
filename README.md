@@ -1,7 +1,7 @@
 ### Hello There 👋
 
 About Me
-- My name is Justin Lohner, I am 23 years old, I live in Utah, and I am a Full-Stack Web Developer.
+- My name is Justin Lohner, I am 25 years old, I live in Utah, and I am a Software Engineer.
 - I'm currently working as an AI Data Trainer, at DataAnnotation.
 - I've most recently worked as a Web Developer at JaroDesk, an appraisal management software company, for a about 3 1/2 years.
 - [JaroDesk](https://www.linkedin.com/company/jaroplatform/)
